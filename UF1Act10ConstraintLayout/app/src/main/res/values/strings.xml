@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UF1Act10(ConstraintLayout)</string>
+    <string name="Edat">Edat</string>
+    <string name="Contrasenya">Contrasenya</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Usuari">Usuari</string>
+    <string name="cognom">Cognom</string>
+    <string name="nom">Nom</string>
+</resources>
